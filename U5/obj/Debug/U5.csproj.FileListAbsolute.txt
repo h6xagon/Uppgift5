@@ -1,0 +1,9 @@
+C:\Users\jpywa\source\repos\U5\bin\Debug\U5.exe.config
+C:\Users\jpywa\source\repos\U5\bin\Debug\U5.exe
+C:\Users\jpywa\source\repos\U5\bin\Debug\U5.pdb
+C:\Users\jpywa\source\repos\U5\obj\Debug\U5.Form1.resources
+C:\Users\jpywa\source\repos\U5\obj\Debug\U5.Properties.Resources.resources
+C:\Users\jpywa\source\repos\U5\obj\Debug\U5.csproj.GenerateResource.cache
+C:\Users\jpywa\source\repos\U5\obj\Debug\U5.csproj.CoreCompileInputs.cache
+C:\Users\jpywa\source\repos\U5\obj\Debug\U5.exe
+C:\Users\jpywa\source\repos\U5\obj\Debug\U5.pdb
